@@ -5,9 +5,6 @@ I'm a passionate beginner in the world of programming since 2021. I'm eager to l
 
 - 🌱 I’m currently learning and exploring new technologies.
 - 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about anything related to programming, I'm happy to help and learn more!
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to solve puzzles and play musical instruments in my free time.
 
 ## Get in Touch
 
