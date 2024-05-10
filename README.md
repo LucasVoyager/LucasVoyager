@@ -1,6 +1,6 @@
 # Hi there, I'm Lucas Barros! 👋
 
-I'm a passionate beginner in the world of programming since 2021. I'm eager to learn and explore various technologies. Currently, I have experience with languages such as Python, JavaScript, TypeScript, and I've worked with several frameworks.Now I'm enrolled in an EBAC course on Full Stack Python Development, and I'm learning a lot. I've been working on several projects to apply what I've learned. As a beginner, I'm constantly striving to improve my HardSkills.
+I'm a passionate beginner in the world of programming since 2021. I'm eager to learn and explore various technologies. Currently, I have experience with languages such as Python, JavaScript, TypeScript, and I've worked with several frameworks. 
 ## About Me
 
 - 🌱 I’m currently learning and exploring new technologies.
